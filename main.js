@@ -63,7 +63,7 @@ let coin = {
 
         if (this.state === 0) {
 
-            return image.src = 'http://typesets.wdfiles.com/local--files/ireland:halfpenny-1928-1967/53REV.JPG'
+             image.src = 'http://typesets.wdfiles.com/local--files/ireland:halfpenny-1928-1967/53REV.JPG'
         }
         
         else  {
